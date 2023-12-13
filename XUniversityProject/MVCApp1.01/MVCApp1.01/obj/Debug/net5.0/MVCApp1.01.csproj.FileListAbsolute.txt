@@ -1,0 +1,169 @@
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\appsettings.Development.json
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\appsettings.json
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\MVCApp1.01.exe
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\MVCApp1.01.deps.json
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\MVCApp1.01.runtimeconfig.json
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\MVCApp1.01.runtimeconfig.dev.json
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\MVCApp1.01.dll
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\MVCApp1.01.pdb
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\MVCApp1.01.Views.dll
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\MVCApp1.01.Views.pdb
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\MVCApp1.01.csproj.AssemblyReference.cache
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\MVCApp1.01.GeneratedMSBuildEditorConfig.editorconfig
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\MVCApp1.01.AssemblyInfoInputs.cache
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\MVCApp1.01.AssemblyInfo.cs
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\MVCApp1.01.csproj.CoreCompileInputs.cache
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\MVCApp1.01.MvcApplicationPartsAssemblyInfo.cache
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\MVCApp1.01.RazorAssemblyInfo.cache
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\MVCApp1.01.RazorAssemblyInfo.cs
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\scopedcss\bundle\MVCApp1.01.styles.css
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\staticwebassets\MVCApp1.01.StaticWebAssets.Manifest.cache
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\staticwebassets\MVCApp1.01.StaticWebAssets.Pack.cache
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\staticwebassets\msbuild.MVCApp1.01.Microsoft.AspNetCore.StaticWebAssets.props
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\staticwebassets\msbuild.build.MVCApp1.01.props
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.MVCApp1.01.props
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.MVCApp1.01.props
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\MVCApp1.01.TagHelpers.input.cache
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\MVCApp1.01.TagHelpers.output.cache
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\MVCApp1.01.RazorCoreGenerate.cache
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\MVCApp1.01.RazorTargetAssemblyInfo.cache
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\MVCApp1.01.RazorTargetAssemblyInfo.cs
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\MVCApp1.01.Views.pdb
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\MVCApp1.01.dll
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\refint\MVCApp1.01.dll
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\MVCApp1.01.pdb
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\MVCApp1.01.genruntimeconfig.cache
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\ref\MVCApp1.01.dll
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\MVCApp1.01.csproj.CopyComplete
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\Humanizer.dll
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\Razor\Views\Dept\Index.cshtml.g.cs
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\Razor\Views\StudentDegrees\ShowResult.cshtml.g.cs
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\Razor\Views\Student\Index.cshtml.g.cs
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\Razor\Views\Instructor\Index.cshtml.g.cs
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\Razor\Views\Instructor\New.cshtml.g.cs
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\Razor\Views\Instructor\Edit.cshtml.g.cs
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\Razor\Views\Instructor\Test.cshtml.g.cs
+E:\AMR\Full Stack\ITI_Backend\ITI MVC Cristin\MVCApp1.01\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\Razor\Views\Student\New.cshtml.g.cs
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\appsettings.Development.json
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\appsettings.json
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\MVCApp1.01.exe
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\MVCApp1.01.deps.json
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\MVCApp1.01.runtimeconfig.json
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\MVCApp1.01.runtimeconfig.dev.json
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\MVCApp1.01.dll
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\MVCApp1.01.pdb
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\MVCApp1.01.Views.dll
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\MVCApp1.01.Views.pdb
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\Humanizer.dll
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\MVCApp1.01.csproj.AssemblyReference.cache
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\MVCApp1.01.GeneratedMSBuildEditorConfig.editorconfig
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\MVCApp1.01.AssemblyInfoInputs.cache
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\MVCApp1.01.AssemblyInfo.cs
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\MVCApp1.01.csproj.CoreCompileInputs.cache
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\MVCApp1.01.MvcApplicationPartsAssemblyInfo.cache
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\MVCApp1.01.RazorAssemblyInfo.cache
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\MVCApp1.01.RazorAssemblyInfo.cs
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\scopedcss\bundle\MVCApp1.01.styles.css
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\staticwebassets\MVCApp1.01.StaticWebAssets.Manifest.cache
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\staticwebassets\MVCApp1.01.StaticWebAssets.Pack.cache
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\staticwebassets\msbuild.MVCApp1.01.Microsoft.AspNetCore.StaticWebAssets.props
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\staticwebassets\msbuild.build.MVCApp1.01.props
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.MVCApp1.01.props
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.MVCApp1.01.props
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\MVCApp1.01.TagHelpers.input.cache
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\MVCApp1.01.TagHelpers.output.cache
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\MVCApp1.01.RazorCoreGenerate.cache
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\Razor\Views\Dept\Index.cshtml.g.cs
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\Razor\Views\Instructor\Edit.cshtml.g.cs
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\Razor\Views\Instructor\Index.cshtml.g.cs
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\Razor\Views\Instructor\New.cshtml.g.cs
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\Razor\Views\Instructor\Test.cshtml.g.cs
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\Razor\Views\StudentDegrees\ShowResult.cshtml.g.cs
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\Razor\Views\Student\Index.cshtml.g.cs
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\Razor\Views\Student\New.cshtml.g.cs
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\MVCApp1.01.RazorTargetAssemblyInfo.cache
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\MVCApp1.01.RazorTargetAssemblyInfo.cs
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\MVCApp1.01.Views.pdb
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\MVCApp1.01.csproj.CopyComplete
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\MVCApp1.01.dll
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\refint\MVCApp1.01.dll
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\MVCApp1.01.pdb
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\MVCApp1.01.genruntimeconfig.cache
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\ref\MVCApp1.01.dll
+E:\AMR\Full Stack\ITI_Backend\X-Platform\MVCApp1.01\MVCApp1.01\obj\Debug\net5.0\Razor\Views\Shared\_MyLayout.cshtml.g.cs
